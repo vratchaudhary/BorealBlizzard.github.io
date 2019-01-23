@@ -13,7 +13,7 @@ github_username: BorealBlizzard
 gplus_username: 
 linkedin_public_url:  # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: 
-profile_picture: "/assets/img/icon1.ico"
+profile_picture: "https://puu.sh/CBb00/cf49f4d882.png"
 
 # Build settings
 markdown: kramdown
