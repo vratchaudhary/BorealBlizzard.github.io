@@ -5,10 +5,7 @@ date: 2019-01-23 10:30:00
 image: '/assets/img/post-image.png'
 description: 'Welcome world, here I come.'
 tags:
-- Hello
-- World
-- Github
-- Jekyll
+- Other
 categories:
 - other
 twitter_text: 'Hello World'
