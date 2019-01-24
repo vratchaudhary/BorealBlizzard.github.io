@@ -10,7 +10,7 @@ tags:
 - Github
 - Jekyll
 categories:
-- 
+- other
 twitter_text: 'Hello World'
 ---
 
