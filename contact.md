@@ -3,6 +3,8 @@ layout: page
 title: Contact
 ---
 
-Contact me through email [hello@webjeda.com](mailto:hello@webjeda.com).
+Contact me through email. [[rapter476@outlook.com]](mailto:rapter476@outlook.com)
 
-For more themes checkout [Jekyll Themes](https://jekyll-themes.com).
+Checkout my github. [[BorealBlizzard]](https://github.com/BorealBlizzard)
+
+Tweet me! [[JakobRamen]](https://twitter.com/JakobRamen)
